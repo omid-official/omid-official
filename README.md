@@ -16,8 +16,9 @@
 - ✏ I'll learn c++ ✏
 
 <br>
-
-<img src="./assets/python.png" height="40" alt="python">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/Golang.svg" height="40" alt="golang">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/gin.png" height="40" alt="gin">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/php.png" height="40" alt="php">
+<p align="center">
+    <img src="./assets/python.png" height="40" alt="python">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/Golang.svg" height="40" alt="golang">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/gin.png" height="40" alt="gin">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/php.png" height="40" alt="php">
+</p>
 
 <br>
 
