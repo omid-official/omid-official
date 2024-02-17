@@ -6,16 +6,14 @@
     👑 Omid The Great 👑
 </h1>
 
+<br>
 
-<p align="center">
-
-- 💲 I'm currently working on a crypto currency based on golang 💲
+- 💲 I'm currently working on a crypto currency based on golang
 - 💬 Ask me about Golang <img src="./assets/golang.jpg" height="20" alt="golang">
 - I ❤ Ai
 - I ❤ Python
 - I ❤ Golang
-- ➡ I'll learn c++ ⬅
-</p>
+- ✏ I'll learn c++ ✏
 
 <p align="center">
 
