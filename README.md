@@ -7,7 +7,7 @@
 </h1>
 
 
-<center>
+<p align="center">
 
 - 💲 I'm currently working on a crypto currency based on golang 💲
 - 💬 Ask me about Golang <img src="./assets/golang.jpg" height="20" alt="golang">
@@ -15,9 +15,9 @@
 - I ❤ Python
 - I ❤ Golang
 - ➡ I'll learn c++ ⬅
-</center>
+</p>
 
-<center>
+<p align="center">
 
 ![Omid](https://github-readme-stats.vercel.app/api?username=omid-the-great&theme=great-gatsby)
-</center>
+</p>
