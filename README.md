@@ -16,6 +16,5 @@
 - ✏ I'll learn c++ ✏
 
 <p align="center">
-
-![Omid](https://github-readme-stats.vercel.app/api?username=omid-the-great&theme=great-gatsby)
+    <img src="https://github-readme-stats.vercel.app/api?username=omid-the-great&theme=great-gatsby" alt="Omid">
 </p>
