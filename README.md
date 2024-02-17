@@ -23,5 +23,5 @@
 
 <p align="center">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=omid-the-great&theme=great-gatsby" alt="Omid's github stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omid-the-great&show_icons=true&locale=en&layout=compact" alt="Omid's most used languages">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omid-the-great&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="Omid's most used languages">
 </p>
