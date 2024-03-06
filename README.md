@@ -17,7 +17,11 @@
 
 <br>
 <p align="center">
-    <img src="./assets/python.png" height="40" alt="python">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/Golang.svg" height="40" alt="golang">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/gin.png" height="40" alt="gin">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/php.png" height="40" alt="php">
+    <img alt="Static Badge" src="https://img.shields.io/badge/python-FFD95B?style=for-the-badge&logo=python&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Static Badge" src="https://img.shields.io/badge/go-FFD95B?style=for-the-badge&logo=go&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-FFD95B?style=for-the-badge&logo=cplusplus&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Static Badge" src="https://img.shields.io/badge/php-FFD95B?style=for-the-badge&logo=php&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Static Badge" src="https://img.shields.io/badge/gin-FFD95B?style=for-the-badge&logo=gin&logoColor=black">
 </p>
 
 <br>
