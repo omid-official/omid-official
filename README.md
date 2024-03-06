@@ -13,7 +13,7 @@
 - I ❤ Ai
 - I ❤ Python
 - I ❤ Golang
-- ✏ I am learning c++ ✏
+- I ❤ C++
 
 <br>
 <p align="center">
