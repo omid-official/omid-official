@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    👑 Omid The Great 👑
+    Omid
 </h1>
 
 <br>
